@@ -1,0 +1,5 @@
+baseURL = 'https://alanmanning.github.io'
+languageCode = 'en-us'
+title = 'Alan Manning'
+theme = "hugo-flex"
+publishDir = 'public'
